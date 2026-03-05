@@ -17,17 +17,16 @@ Sou desenvolvedora Front-End, movida por tecnologia, inovação e pelo desenvolv
 ## Sobre mim
 
 <div align="left">
-  <img src="https://media4.giphy.com/media/9rcx4VIBB6VZ2uFuYK/giphy.gif" width="200" align="right" style="margin-left: 20px;" />
+<img src="https://media4.giphy.com/media/9rcx4VIBB6VZ2uFuYK/giphy.gif" width="200" align="right"/>
 
-  ### Tenho experiência com:
+### Tenho experiência com:
 
-  ✔️ Desenvolvimento de componentes reutilizáveis  
-  ✔️ Arquitetura modular  
-  ✔️ Integração com APIs REST  
-  ✔️ Versionamento e gestão de tarefas com Azure DevOps  
-  ✔️ Transformação de layouts do Figma em código responsivo e organizado  
+✔️ Desenvolvimento de componentes reutilizáveis  
+✔️ Arquitetura modular  
+✔️ Integração com APIs REST  
+✔️ Versionamento e gestão de tarefas com Azure DevOps  
+✔️ Transformação de layouts do Figma em código responsivo e organizado  
 
-  <br clear="right" />
 </div>
 
 ## 🛠️ Tech Stack
