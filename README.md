@@ -30,7 +30,6 @@ Sou desenvolvedora Front-End, movida por tecnologia, inovação e pelo desenvolv
   <br clear="right" />
 </div>
 
-
 ## 🛠️ Tech Stack
 
 <div align="left">
