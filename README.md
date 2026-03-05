@@ -6,84 +6,65 @@
 Sou desenvolvedora Front-End, movida por tecnologia, inovação e pelo desenvolvimento de soluções que geram impacto real.
 </p>
 
-<p align="start">
-🚀 2 anos de experiência no mercado <br>
-🏢 Atualmente Desenvolvedora Front-End na <strong>Mosten</strong> <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="16" alt="Angular"/> Especialista em Angular e TypeScript
+<p align="left">
+<span style="display:inline-block; width:28px;">🚀</span> 2 anos de experiência no mercado <br>
+
+<span style="display:inline-block; width:28px;">
+⚡
+</span>Especialista em Angular e TypeScript  <br>
+<span style="display:inline-block; width:28px;">💼</span> Atualmente Desenvolvedora Front-End na <strong>Mosten</strong>
 </p>
 
----
 
+## Sobre mim
 
-## 👩🏻‍💻 Sobre mim
+<div align="left">
+  <img src="https://media4.giphy.com/media/9rcx4VIBB6VZ2uFuYK/giphy.gif" width="200" align="right" style="margin-left: 20px;" />
 
-```ts
-const mariaEduarda = {
-  role: "Front-End Developer",
-  experience: "2 anos",
-  company: "Mosten",
-  mainStack: ["Angular", "TypeScript", "SCSS"],
-  tools: ["Azure DevOps", "Figma"],
-  focus: "Interfaces performáticas, escaláveis e bem estruturadas",
-};
-```
-Tenho experiência com:
+  ### Tenho experiência com:
 
-✔️ Desenvolvimento de componentes reutilizáveis  
-✔️ Arquitetura modular  
-✔️ Integração com APIs REST  
-✔️ Versionamento e gestão de tarefas com Azure DevOps  
-✔️ Transformação de layouts do Figma em código responsivo e organizado  
+  ✔️ Desenvolvimento de componentes reutilizáveis  
+  ✔️ Arquitetura modular  
+  ✔️ Integração com APIs REST  
+  ✔️ Versionamento e gestão de tarefas com Azure DevOps  
+  ✔️ Transformação de layouts do Figma em código responsivo e organizado  
 
-Sou movida por melhoria contínua, organização e boas práticas.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🎨 Front-End
-![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![SCSS](https://img.shields.io/badge/SCSS-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)
-
-### ⚙️ Ferramentas & Workflow
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
+  <br clear="right" />
 </div>
 
 
-## 🚀 O que você pode esperar de mim
+## 🛠️ Tech Stack
 
-✨ Código limpo e bem estruturado  
+<div align="left">
+
+### 🎨 Front-End
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass" />
+
+<br />
+
+### ⚙️ Ferramentas & Workflow
+<img src="https://skillicons.dev/icons?i=azure,git,figma" />
+
+</div>
+</div>
+
+
+## 🚀 O que você pode esperar de mim  
 ✨ Organização e responsabilidade com prazos  
 ✨ Facilidade para trabalhar em equipe  
 ✨ Interfaces modernas e responsivas  
 ✨ Evolução constante  
 
----
+
 
 ## 📬 Contato
 
-<div align="center">
-
-<a href="mailto:mariaeduarda.barbosa012@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://www.linkedin.com/in/meb12/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
+<div align="left">
+  <a href="mailto:mariaeduarda.barbosa012@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/meb12/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
----
-
-<p align="center">
-💙 Obrigada por visitar meu perfil!
-</p>
