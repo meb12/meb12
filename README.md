@@ -1,5 +1,3 @@
-
-
 <h3 align="start">Oie, me chamo Maria Eduarda! ❤️</h1>
 
 <p align="start">
